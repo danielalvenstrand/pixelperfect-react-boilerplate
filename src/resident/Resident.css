@@ -1,10 +1,11 @@
 .Resident {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 250px;
+    margin: 25px;
 }
 
 .Resident h3 {
-    border: 1px solid gray;
-    padding: 4px;
-    border-radius: 2px;
+    text-align: center;
 }

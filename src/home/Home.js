@@ -23,7 +23,7 @@ class Home extends Component {
             <div className="Home">
                 <header id="header">
                     <section>
-                        <h2>This is Home</h2>
+                        <h2>This is a home</h2>
                     </section>
                 </header>
                 {this.props.ready ? <div className="residents">
